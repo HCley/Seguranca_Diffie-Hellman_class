@@ -1,0 +1,39 @@
+1 - Criptografia simétrica – cifras clássicas --> T1
+	Introdução https://www.youtube.com/watch?v=htERgH50H3c&feature=youtu.be
+	Construção da Enigma https://www.youtube.com/watch?v=HbTsq3NSKVk&feature=youtu.be
+	Quebrando a Enigma - Rajewski https://www.youtube.com/watch?v=OGLhQIitfyE&feature=youtu.be
+	Quebrando a Enigma - Turing https://www.youtube.com/watch?v=frHvdcEA3B4&feature=youtu.be
+	Criptografia clássica - César https://www.youtube.com/watch?v=LeqnhEjUKs8&feature=youtu.be
+	Criptografia clássica - Vigènere https://www.youtube.com/watch?v=rjK_t9qkvE4&feature=youtu.be
+	CRIPTOGRAFIA CLÁSSICA TRABALHO 1 https://www.youtube.com/watch?v=_h92JdQIG84&feature=youtu.be
+	Cifra de fluxo - One time Pad https://www.youtube.com/watch?v=A--2We9WUIA&feature=youtu.be&ab_channel=AvelinoZorzo
+
+2 - Criptografia Simétrica 
+	Cifra de blocos - DES https://www.youtube.com/watch?v=HOPv6-icb2Q
+	Cifra de blocos - AES https://www.youtube.com/watch?v=Pzde7XZOIYo
+	Cifra de blocos - Modos de operação https://www.youtube.com/watch?v=rhuaZhUXpTw
+	Exemplo de uso do AES em java https://www.youtube.com/watch?v=SJOMCPMJlQw&feature=youtu.be&ab_channel=AvelinoZorzo
+
+3 - Integridade de mensagens --> T2
+	Funções resumo - Hash https://www.youtube.com/watch?v=24Mx2ao_3zg
+	SHA1 https://www.youtube.com/watch?v=DlAMEccvh9U
+	Message Authentication Code - MAC https://www.youtube.com/watch?v=3m_vOrEz7OM
+	Ataque alteração IV https://www.youtube.com/watch?v=rdazg1lIzEo&feature=youtu.be&ab_channel=AvelinoZorzo
+
+4 - Aritmética modular
+	Preambulo https://www.youtube.com/watch?v=3sMZmp2GT9A&feature=youtu.be
+	Introdução e inversos https://www.youtube.com/watch?v=M87tGbj6A74&feature=youtu.be
+	Inversos e equações lineares https://www.youtube.com/watch?v=0EdfXY9QYME&feature=youtu.be
+	Fermat https://www.youtube.com/watch?v=1dQbx1yOcuI&feature=youtu.be
+	Euler https://www.youtube.com/watch?v=UoqvHPpki7k&feature=youtu.be
+	Resumo https://www.youtube.com/watch?v=jCoUWg3YoF8&feature=youtu.be
+
+5 - Troca de chaves --> T3
+	Introdução https://www.youtube.com/watch?v=nEl7f-WkENU
+	Diffie-Hellman https://www.youtube.com/watch?v=C8fNySe-Ago&feature=youtu.be
+	Exemplo prático https://www.youtube.com/watch?v=9WLUdcpvEjc&feature=youtu.be
+	MITM https://www.youtube.com/watch?v=1AlqaKwhqTE&feature=youtu.be
+
+6 - Criptografia Assimétricas
+	RSA: https://www.youtube.com/watch?v=4xbW5Bt-xvg
+	Curvas Elípticas https://www.youtube.com/watch?v=T6MinZMQm4o
